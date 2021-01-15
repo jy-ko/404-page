@@ -5,19 +5,9 @@
 </div>
 
 <div align="center">
-  <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
-      Challenge
-    </a>
-  </h3>
+  <a href="https://jyko-404-page.web.app/">
+        Solution
+      </a>
 </div>
 
 
@@ -36,4 +26,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 
 ## Contact
-- GitHub [@your-username](https://{github.com/your-usermame})
+- GitHub [@jy-ko](https://{github.com/jy-ko})
